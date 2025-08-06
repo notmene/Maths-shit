@@ -1,0 +1,13 @@
+{
+  "name": "maths-shit",
+  "version": "1.0.0",
+  "description": "maths game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
