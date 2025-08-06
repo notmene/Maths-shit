@@ -1,0 +1,1328 @@
+[
+  {
+    "id": 1,
+    "theme": "domain_range",
+    "difficulty": "easy",
+    "question": "What is the domain of the function f(x) = x + 5?",
+    "options": [
+      "All real numbers",
+      "x \u2260 0",
+      "x > 0",
+      "x < -5"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 2,
+    "theme": "domain_range",
+    "difficulty": "easy",
+    "question": "What is the range of the function f(x) = x - 3?",
+    "options": [
+      "All real numbers",
+      "x \u2265 3",
+      "x \u2264 -3",
+      "x \u2260 3"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 3,
+    "theme": "domain_range",
+    "difficulty": "easy",
+    "question": "What is the domain of f(x) = 1 / (x + 2)?",
+    "options": [
+      "x \u2260 -2",
+      "x \u2260 2",
+      "x > -2",
+      "x < -2"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 4,
+    "theme": "domain_range",
+    "difficulty": "easy",
+    "question": "What is the range of f(x) = 2x?",
+    "options": [
+      "All real numbers",
+      "x > 0",
+      "x < 0",
+      "x \u2265 2"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 5,
+    "theme": "domain_range",
+    "difficulty": "medium",
+    "question": "Find the domain of f(x) = \u221a(x - 1).",
+    "options": [
+      "x \u2265 1",
+      "x > 0",
+      "x < 1",
+      "x \u2260 1"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 6,
+    "theme": "domain_range",
+    "difficulty": "medium",
+    "question": "What is the range of f(x) = x\u00b2 + 3?",
+    "options": [
+      "y \u2265 3",
+      "y > 0",
+      "y < 3",
+      "y \u2260 3"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 7,
+    "theme": "domain_range",
+    "difficulty": "medium",
+    "question": "Find the domain of f(x) = \u221a(4 - x\u00b2).",
+    "options": [
+      "-2 \u2264 x \u2264 2",
+      "x > 2",
+      "x < -2",
+      "x \u2260 0"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 8,
+    "theme": "domain_range",
+    "difficulty": "medium",
+    "question": "What is the range of f(x) = 1 / (x\u00b2 + 1)?",
+    "options": [
+      "0 < y \u2264 1",
+      "y > 1",
+      "y = 0",
+      "All real numbers"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 9,
+    "theme": "domain_range",
+    "difficulty": "hard",
+    "question": "Find the domain of f(x) = ln(x - 4).",
+    "options": [
+      "x > 4",
+      "x \u2265 4",
+      "x \u2260 4",
+      "x < 4"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 10,
+    "theme": "domain_range",
+    "difficulty": "hard",
+    "question": "Determine the range of f(x) = e^x.",
+    "options": [
+      "y > 0",
+      "All real numbers",
+      "y \u2260 0",
+      "y \u2265 0"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 11,
+    "theme": "domain_range",
+    "difficulty": "hard",
+    "question": "What is the domain of f(x) = 1 / \u221ax?",
+    "options": [
+      "x > 0",
+      "x \u2265 0",
+      "x < 0",
+      "x \u2260 0"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 12,
+    "theme": "domain_range",
+    "difficulty": "hard",
+    "question": "Find the range of f(x) = |x - 2| + 1.",
+    "options": [
+      "y \u2265 1",
+      "y > 2",
+      "y < 1",
+      "All real numbers"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 13,
+    "theme": "types_functions",
+    "difficulty": "easy",
+    "question": "Sample question 13 for types_functions (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 14,
+    "theme": "types_functions",
+    "difficulty": "easy",
+    "question": "Sample question 14 for types_functions (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 15,
+    "theme": "types_functions",
+    "difficulty": "easy",
+    "question": "Sample question 15 for types_functions (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 16,
+    "theme": "types_functions",
+    "difficulty": "easy",
+    "question": "Sample question 16 for types_functions (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 17,
+    "theme": "types_functions",
+    "difficulty": "medium",
+    "question": "Sample question 17 for types_functions (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 18,
+    "theme": "types_functions",
+    "difficulty": "medium",
+    "question": "Sample question 18 for types_functions (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 19,
+    "theme": "types_functions",
+    "difficulty": "medium",
+    "question": "Sample question 19 for types_functions (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 20,
+    "theme": "types_functions",
+    "difficulty": "medium",
+    "question": "Sample question 20 for types_functions (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 21,
+    "theme": "types_functions",
+    "difficulty": "hard",
+    "question": "Sample question 21 for types_functions (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 22,
+    "theme": "types_functions",
+    "difficulty": "hard",
+    "question": "Sample question 22 for types_functions (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 23,
+    "theme": "types_functions",
+    "difficulty": "hard",
+    "question": "Sample question 23 for types_functions (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 24,
+    "theme": "types_functions",
+    "difficulty": "hard",
+    "question": "Sample question 24 for types_functions (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 25,
+    "theme": "inequalities",
+    "difficulty": "easy",
+    "question": "Sample question 25 for inequalities (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 26,
+    "theme": "inequalities",
+    "difficulty": "easy",
+    "question": "Sample question 26 for inequalities (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 27,
+    "theme": "inequalities",
+    "difficulty": "easy",
+    "question": "Sample question 27 for inequalities (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 28,
+    "theme": "inequalities",
+    "difficulty": "easy",
+    "question": "Sample question 28 for inequalities (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 29,
+    "theme": "inequalities",
+    "difficulty": "medium",
+    "question": "Sample question 29 for inequalities (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 30,
+    "theme": "inequalities",
+    "difficulty": "medium",
+    "question": "Sample question 30 for inequalities (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 31,
+    "theme": "inequalities",
+    "difficulty": "medium",
+    "question": "Sample question 31 for inequalities (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 32,
+    "theme": "inequalities",
+    "difficulty": "medium",
+    "question": "Sample question 32 for inequalities (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 33,
+    "theme": "inequalities",
+    "difficulty": "hard",
+    "question": "Sample question 33 for inequalities (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 34,
+    "theme": "inequalities",
+    "difficulty": "hard",
+    "question": "Sample question 34 for inequalities (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 35,
+    "theme": "inequalities",
+    "difficulty": "hard",
+    "question": "Sample question 35 for inequalities (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 36,
+    "theme": "inequalities",
+    "difficulty": "hard",
+    "question": "Sample question 36 for inequalities (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 37,
+    "theme": "limits",
+    "difficulty": "easy",
+    "question": "Sample question 37 for limits (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 38,
+    "theme": "limits",
+    "difficulty": "easy",
+    "question": "Sample question 38 for limits (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 39,
+    "theme": "limits",
+    "difficulty": "easy",
+    "question": "Sample question 39 for limits (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 40,
+    "theme": "limits",
+    "difficulty": "easy",
+    "question": "Sample question 40 for limits (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 41,
+    "theme": "limits",
+    "difficulty": "medium",
+    "question": "Sample question 41 for limits (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 42,
+    "theme": "limits",
+    "difficulty": "medium",
+    "question": "Sample question 42 for limits (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 43,
+    "theme": "limits",
+    "difficulty": "medium",
+    "question": "Sample question 43 for limits (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 44,
+    "theme": "limits",
+    "difficulty": "medium",
+    "question": "Sample question 44 for limits (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 45,
+    "theme": "limits",
+    "difficulty": "hard",
+    "question": "Sample question 45 for limits (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 46,
+    "theme": "limits",
+    "difficulty": "hard",
+    "question": "Sample question 46 for limits (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 47,
+    "theme": "limits",
+    "difficulty": "hard",
+    "question": "Sample question 47 for limits (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 48,
+    "theme": "limits",
+    "difficulty": "hard",
+    "question": "Sample question 48 for limits (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 49,
+    "theme": "lateral_limits",
+    "difficulty": "easy",
+    "question": "Sample question 49 for lateral_limits (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 50,
+    "theme": "lateral_limits",
+    "difficulty": "easy",
+    "question": "Sample question 50 for lateral_limits (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 51,
+    "theme": "lateral_limits",
+    "difficulty": "easy",
+    "question": "Sample question 51 for lateral_limits (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 52,
+    "theme": "lateral_limits",
+    "difficulty": "easy",
+    "question": "Sample question 52 for lateral_limits (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 53,
+    "theme": "lateral_limits",
+    "difficulty": "medium",
+    "question": "Sample question 53 for lateral_limits (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 54,
+    "theme": "lateral_limits",
+    "difficulty": "medium",
+    "question": "Sample question 54 for lateral_limits (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 55,
+    "theme": "lateral_limits",
+    "difficulty": "medium",
+    "question": "Sample question 55 for lateral_limits (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 56,
+    "theme": "lateral_limits",
+    "difficulty": "medium",
+    "question": "Sample question 56 for lateral_limits (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 57,
+    "theme": "lateral_limits",
+    "difficulty": "hard",
+    "question": "Sample question 57 for lateral_limits (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 58,
+    "theme": "lateral_limits",
+    "difficulty": "hard",
+    "question": "Sample question 58 for lateral_limits (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 59,
+    "theme": "lateral_limits",
+    "difficulty": "hard",
+    "question": "Sample question 59 for lateral_limits (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 60,
+    "theme": "lateral_limits",
+    "difficulty": "hard",
+    "question": "Sample question 60 for lateral_limits (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 61,
+    "theme": "trig_limits",
+    "difficulty": "easy",
+    "question": "Sample question 61 for trig_limits (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 62,
+    "theme": "trig_limits",
+    "difficulty": "easy",
+    "question": "Sample question 62 for trig_limits (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 63,
+    "theme": "trig_limits",
+    "difficulty": "easy",
+    "question": "Sample question 63 for trig_limits (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 64,
+    "theme": "trig_limits",
+    "difficulty": "easy",
+    "question": "Sample question 64 for trig_limits (easy)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 65,
+    "theme": "trig_limits",
+    "difficulty": "medium",
+    "question": "Sample question 65 for trig_limits (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 66,
+    "theme": "trig_limits",
+    "difficulty": "medium",
+    "question": "Sample question 66 for trig_limits (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 67,
+    "theme": "trig_limits",
+    "difficulty": "medium",
+    "question": "Sample question 67 for trig_limits (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 68,
+    "theme": "trig_limits",
+    "difficulty": "medium",
+    "question": "Sample question 68 for trig_limits (medium)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 69,
+    "theme": "trig_limits",
+    "difficulty": "hard",
+    "question": "Sample question 69 for trig_limits (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 70,
+    "theme": "trig_limits",
+    "difficulty": "hard",
+    "question": "Sample question 70 for trig_limits (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 71,
+    "theme": "trig_limits",
+    "difficulty": "hard",
+    "question": "Sample question 71 for trig_limits (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 72,
+    "theme": "trig_limits",
+    "difficulty": "hard",
+    "question": "Sample question 72 for trig_limits (hard)",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "types_functions",
+    "difficulty": "easy",
+    "player": 1,
+    "question": "Which of the following is a linear function?",
+    "options": [
+      "f(x) = 2x + 3",
+      "f(x) = x\u00b2",
+      "f(x) = \u221ax",
+      "f(x) = 1/x"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "types_functions",
+    "difficulty": "easy",
+    "player": 2,
+    "question": "Which of these is NOT a function?",
+    "options": [
+      "f(x) = x + 2",
+      "f(x) = \u221ax",
+      "f(x) = \u00b1\u221ax",
+      "f(x) = x\u00b2"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "theme": "types_functions",
+    "difficulty": "medium",
+    "player": 1,
+    "question": "What type of function is f(x) = 1/x?",
+    "options": [
+      "Linear",
+      "Quadratic",
+      "Rational",
+      "Exponential"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "theme": "types_functions",
+    "difficulty": "medium",
+    "player": 2,
+    "question": "Which graph represents an exponential growth function?",
+    "options": [
+      "f(x) = 2^x",
+      "f(x) = -x\u00b2",
+      "f(x) = 1/x",
+      "f(x) = |x|"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "types_functions",
+    "difficulty": "hard",
+    "player": 1,
+    "question": "Which of the following best describes a piecewise function?",
+    "options": [
+      "A function with more than one expression",
+      "A function that is not continuous",
+      "A function that never intersects the x-axis",
+      "A function that has no domain"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "types_functions",
+    "difficulty": "hard",
+    "player": 2,
+    "question": "The function f(x) = |x| is classified as:",
+    "options": [
+      "Quadratic",
+      "Linear",
+      "Absolute value",
+      "Rational"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "theme": "inequalities",
+    "difficulty": "easy",
+    "player": 1,
+    "question": "Solve: x + 5 > 7",
+    "options": [
+      "x > 2",
+      "x > -2",
+      "x < 2",
+      "x = 2"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "inequalities",
+    "difficulty": "easy",
+    "player": 2,
+    "question": "Which symbol represents 'greater than or equal to'?",
+    "options": [
+      ">",
+      "<",
+      "\u2265",
+      "\u2264"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "theme": "inequalities",
+    "difficulty": "medium",
+    "player": 1,
+    "question": "Solve: 2x - 3 < 7",
+    "options": [
+      "x < 5",
+      "x > 5",
+      "x < 2",
+      "x = 5"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "inequalities",
+    "difficulty": "medium",
+    "player": 2,
+    "question": "Solve the compound inequality: 1 < x + 3 \u2264 7",
+    "options": [
+      "-2 < x \u2264 4",
+      "-4 < x \u2264 4",
+      "1 < x \u2264 7",
+      "0 < x < 10"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "inequalities",
+    "difficulty": "hard",
+    "player": 1,
+    "question": "Solve: |x - 2| < 5",
+    "options": [
+      "-3 < x < 7",
+      "-7 < x < 3",
+      "x < -3 or x > 7",
+      "x > -3"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "inequalities",
+    "difficulty": "hard",
+    "player": 2,
+    "question": "Which is the solution set of the inequality: x\u00b2 - 4 < 0?",
+    "options": [
+      "x < -2 or x > 2",
+      "-2 < x < 2",
+      "x \u2264 -2",
+      "x \u2265 2"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "theme": "limits",
+    "difficulty": "easy",
+    "player": 1,
+    "question": "What is lim(x\u21922) (x + 3)?",
+    "options": [
+      "5",
+      "1",
+      "3",
+      "2"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "limits",
+    "difficulty": "easy",
+    "player": 2,
+    "question": "Find the limit: lim(x\u21921) (3x)",
+    "options": [
+      "3",
+      "1",
+      "4",
+      "0"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "limits",
+    "difficulty": "medium",
+    "player": 1,
+    "question": "What is lim(x\u21920) (x\u00b2)?",
+    "options": [
+      "0",
+      "1",
+      "Undefined",
+      "\u221e"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "limits",
+    "difficulty": "medium",
+    "player": 2,
+    "question": "What is lim(x\u21922) (x\u00b2 - 4)/(x - 2)?",
+    "options": [
+      "4",
+      "2",
+      "Undefined",
+      "4"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "theme": "limits",
+    "difficulty": "hard",
+    "player": 1,
+    "question": "Find the limit: lim(x\u2192\u221e) (1/x)",
+    "options": [
+      "1",
+      "\u221e",
+      "0",
+      "-\u221e"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "theme": "limits",
+    "difficulty": "hard",
+    "player": 2,
+    "question": "lim(x\u21920) (sin(x)/x) equals:",
+    "options": [
+      "1",
+      "0",
+      "Undefined",
+      "\u221e"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "lateral_limits",
+    "difficulty": "easy",
+    "player": 1,
+    "question": "What does lim(x\u21923\u207a) f(x) mean?",
+    "options": [
+      "Left-hand limit",
+      "Right-hand limit",
+      "Two-sided limit",
+      "Midpoint value"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "theme": "lateral_limits",
+    "difficulty": "easy",
+    "player": 2,
+    "question": "What does lim(x\u2192-2\u207b) f(x) indicate?",
+    "options": [
+      "From the left",
+      "From the right",
+      "From above",
+      "From below"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "lateral_limits",
+    "difficulty": "medium",
+    "player": 1,
+    "question": "If lim(x\u21921\u207b) f(x) \u2260 lim(x\u21921\u207a) f(x), then:",
+    "options": [
+      "The limit exists",
+      "The limit does not exist",
+      "Limit is 0",
+      "Limit is infinite"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "theme": "lateral_limits",
+    "difficulty": "medium",
+    "player": 2,
+    "question": "What is lim(x\u21920\u207a) (1/x)?",
+    "options": [
+      "\u221e",
+      "-\u221e",
+      "0",
+      "1"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "lateral_limits",
+    "difficulty": "hard",
+    "player": 1,
+    "question": "The left-hand limit of f(x) = |x|/x as x \u2192 0 is:",
+    "options": [
+      "1",
+      "-1",
+      "0",
+      "Does not exist"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "theme": "lateral_limits",
+    "difficulty": "hard",
+    "player": 2,
+    "question": "The function f(x) has a jump discontinuity at x = 4. What does this imply?",
+    "options": [
+      "Left and right limits are different",
+      "Limit is infinite",
+      "Function is undefined",
+      "Left and right limits are equal"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "trig_limits",
+    "difficulty": "easy",
+    "player": 1,
+    "question": "What is lim(x\u21920) sin(x)?",
+    "options": [
+      "0",
+      "1",
+      "\u221e",
+      "Undefined"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "trig_limits",
+    "difficulty": "easy",
+    "player": 2,
+    "question": "Find lim(x\u21920) tan(x)",
+    "options": [
+      "0",
+      "1",
+      "\u221e",
+      "-\u221e"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "trig_limits",
+    "difficulty": "medium",
+    "player": 1,
+    "question": "lim(x\u21920) (sin(x)/x) equals:",
+    "options": [
+      "1",
+      "0",
+      "\u221e",
+      "-\u221e"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "trig_limits",
+    "difficulty": "medium",
+    "player": 2,
+    "question": "What is lim(x\u21920) (1 - cos(x))/x\u00b2?",
+    "options": [
+      "0",
+      "\u221e",
+      "1/2",
+      "Undefined"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "theme": "trig_limits",
+    "difficulty": "hard",
+    "player": 1,
+    "question": "Evaluate lim(x\u2192\u03c0/2) tan(x)",
+    "options": [
+      "\u221e",
+      "0",
+      "-\u221e",
+      "Undefined"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "theme": "trig_limits",
+    "difficulty": "hard",
+    "player": 2,
+    "question": "Find lim(x\u21920) (tan(x)/x)",
+    "options": [
+      "1",
+      "0",
+      "\u221e",
+      "-\u221e"
+    ],
+    "answerIndex": 0
+  }
+]

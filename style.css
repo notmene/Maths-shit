@@ -1,0 +1,73 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(6, 60px);
+  grid-template-rows: repeat(5, 60px);
+  gap: 5px;
+  width: max-content;
+  margin: 20px auto;
+}
+
+.tile {
+  border: 1px solid #333;
+  width: 60px;
+  height: 60px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+}
+
+.tile.powerup { background: #f7e26b; }
+.tile.duel { background: #f597b0; }
+.tile.final { background: #444; color: #fff; }
+
+.tile.theme-domain_range { background: #9be7a7; }
+.tile.theme-types_functions { background: #9dc5e7; }
+.tile.theme-inequalities { background: #e79d9d; }
+.tile.theme-limits { background: #c5a1e7; }
+.tile.theme-lateral_limits { background: #9de7e3; }
+.tile.theme-trig_limits { background: #c77ab2; }
+
+.player {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  position: absolute;
+}
+.player1 { background: yellow; }
+.player2 { background: magenta; }
+
+#status {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+}
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.modal.hidden { display: none; }
+.modal-content {
+  background: white;
+  padding: 20px;
+  border-radius: 4px;
+  max-width: 400px;
+}
+
+ul { list-style: none; padding: 0; }
+ul li { margin: 5px 0; }
+button { margin: 5px; }

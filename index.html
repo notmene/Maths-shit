@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Math Challenge Board</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Math Challenge Board</h1>
+  <div id="status">
+    <div class="player-status" id="player1-status">Player 1 - Lives: <span class="lives">3</span> - Points: <span class="points">0</span></div>
+    <div class="player-status" id="player2-status">Player 2 - Lives: <span class="lives">3</span> - Points: <span class="points">0</span></div>
+  </div>
+  <button id="roll-btn">Roll Dice</button>
+  <div id="dice-result"></div>
+  <div id="board" class="board"></div>
+
+  <div id="question-modal" class="modal hidden">
+    <div class="modal-content">
+      <h2 id="question-text"></h2>
+      <ul id="options"></ul>
+      <div id="timer"></div>
+    </div>
+  </div>
+
+  <div id="powerup-modal" class="modal hidden">
+    <div class="modal-content">
+      <h2>Choose Power-Up</h2>
+      <button data-power="life">+1 Life</button>
+      <button data-power="points">+3 Points</button>
+      <button data-power="advance">Advance 2 Tiles</button>
+    </div>
+  </div>
+
+  <div id="duel-modal" class="modal hidden">
+    <div class="modal-content">
+      <h2>Duel!</h2>
+      <p id="duel-question"></p>
+      <ul id="duel-options"></ul>
+      <div id="duel-timer"></div>
+    </div>
+  </div>
+
+  <div id="gameover-modal" class="modal hidden">
+    <div class="modal-content">
+      <h2 id="gameover-text"></h2>
+      <button id="rematch-btn">Rematch</button>
+      <button id="newgame-btn">New Game</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
